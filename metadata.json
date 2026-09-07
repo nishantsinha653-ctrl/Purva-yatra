@@ -1,0 +1,6 @@
+{
+  "name": "Purva Yatra",
+  "description": "Purva Yatra - Travel with Faith, Return with Blessings. East India's trusted travel and pilgrimage partner for holy yatras, Pind Daan rituals, and heritage holidays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
